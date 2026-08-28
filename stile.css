@@ -15,7 +15,7 @@ p {
   line-height: 1.6;
 }
 
-.galery {
+.galery img {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
