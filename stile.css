@@ -15,14 +15,14 @@ p {
   line-height: 1.6;
 }
 
-.galery img {
+.galery {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   margin-top: 20px;
 }
 
-{
+.galery img {
   width: 200px;
   height: 150px;
   object-fit: cover;
